@@ -12,16 +12,6 @@ body{
     padding-bottom: 100px;
     position: relative;
 }
-#title p{
-    padding-top: 250px;
-    color: #fff;
-}
-#title h1{
-    font-size: 48px;
-}
-#title h1, span{
-    color: #fff;
-}
 #search-tab{
     background-color: #fff;
     position: absolute;
@@ -44,14 +34,10 @@ body{
 #featured-section .feature-img img:hover{
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15)   
 }
-#feature-option{
-    margin-top: 200px;
-}
 #feature-option a{
     text-decoration: none;
     color: #000 !important;
 }
-
 #feature-option .card:hover{
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15)
 }
@@ -61,18 +47,12 @@ body{
     height: 350px;
     margin-top: 150px;
 }
-#recent{
-    margin-top: 150px;
-}
 #recent img{
     border-radius: 5px;
 }
 #recent .recent-text{
     background-color: #F6F3FF;
     border-radius: 5px;
-}
-#client-section{
-    margin-top: 150px;
 }
 #client-section .client-image img{
     width: 100px;
@@ -98,9 +78,6 @@ body{
 
 #team .card-body{
     padding: 6px 10px;
-}
-#team .card-body h5{
-    color: #000;
 }
 #team .card .card-footer a{
     margin: 0 6px;
