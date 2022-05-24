@@ -12,17 +12,8 @@ body{
     padding-bottom: 100px;
     position: relative;
 }
-#search-tab{
-    background-color: #fff;
-    position: absolute;
-    margin-top: 4%;
-    left: 8.5%;
-}
 #search-tab:hover{
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15)
-}
-#featured-section{
-    padding-top: 180px;
 }
 #featured-section .feature-img img:hover{
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15)   
@@ -39,9 +30,6 @@ body{
     width: 350px;
     height: 350px;
     margin-top: 150px;
-}
-#recent .recent-text{
-    background-color: #F6F3FF;
 }
 #client-section .client-image img{
     width: 100px;
@@ -115,16 +103,6 @@ body{
 }
 /* tablet */
 @media screen and (max-width: 769px){
-    #search-tab .me-5 {
-        margin-right: 20px !important;
-    }
-    #search-tab .search-button {
-        padding-left: 40px;
-        padding-right: 40px;
-    }
-    #feature-option .card{
-        width: 35rem !important;
-    }
     #contact .contact-form{
         width: 700px;
     } 
