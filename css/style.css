@@ -101,9 +101,3 @@ body{
         width: 200px;
     }  
 }
-/* tablet */
-@media screen and (max-width: 769px){
-    #contact .contact-form{
-        width: 700px;
-    } 
-}
