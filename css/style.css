@@ -21,10 +21,6 @@ body{
 #search-tab:hover{
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15)
 }
-#search-tab .search-button {
-    padding-left: 100px;
-    padding-right: 100px;
-}
 #featured-section{
     padding-top: 180px;
 }
