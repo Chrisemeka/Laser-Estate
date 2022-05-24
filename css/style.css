@@ -79,37 +79,11 @@ body{
 #team .card-body{
     padding: 6px 10px;
 }
-#team .card .card-footer a{
-    margin: 0 6px;
-}
-#team .card .card-footer .bi-twitter{
-    color: #333;
-    font-size: 18px;
-}
-#team .card .card-footer .bi-facebook{
-    color: #333;
-    font-size: 18px;
-}
-#team .card .card-footer .bi-instagram{
-    color: #333;
-    font-size: 18px;
-}
-#team .card .card-footer .bi-linkedin{
-    color: #333;
-    font-size: 18px;
-}
 
 /* contact page */
 
-#contact{
-    padding-top: 150px;
-}
 #contact .contact-form{
     width: 800px;
-}
-#contact i{
-    font-size: 24px;
-    padding: 10px 7px;
 }
 
 /* mobile */
@@ -149,17 +123,13 @@ body{
     }
     #contact .contact-form{
         width: 300px;
-    }
-    
+    } 
 }
 @media screen and (max-width: 321px){
     #contact .contact-form{
         width: 200px;
-    }
-
-    
+    }  
 }
-
 /* tablet */
 @media screen and (max-width: 769px){
     #search-tab .me-5 {
@@ -172,9 +142,7 @@ body{
     #feature-option .card{
         width: 35rem !important;
     }
-
     #contact .contact-form{
         width: 700px;
-    }
-    
+    } 
 }
